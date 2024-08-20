@@ -1,5 +1,8 @@
 # Customer Segmentation Using KMeans Clustering on Online Retail Data
 
+![image](https://github.com/user-attachments/assets/babfcf19-cbaf-4831-855e-bee344ef03cf)
+
+
 This project demonstrates customer segmentation using KMeans clustering on an online retail dataset. The dataset contains transactional data for the years 2009-2011. The goal is to cluster customers based on their purchasing behavior and visualize the results using Principal Component Analysis (PCA).
 
 ## Features
